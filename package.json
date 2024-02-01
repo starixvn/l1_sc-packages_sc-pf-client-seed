@@ -24,7 +24,6 @@
         "test-coverage": "jest --coverage --runInBand"
     },
     "dependencies": {
-        "@types/jest": "^29.5.11",
         "chance": "^1.1.11"
     },
     "devDependencies": {
@@ -42,6 +41,7 @@
         "sc-semantic-release": "^1.2.0",
         "semantic-release": "^17.2.1",
         "ts-jest": "^29.1.2",
+        "@types/jest": "^29.5.11",
         "typescript": "^5.3.3"
     },
     "jest": {
