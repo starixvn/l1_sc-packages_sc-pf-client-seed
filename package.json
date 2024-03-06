@@ -4,7 +4,7 @@
     "description": "",
     "main": "dist/index.js",
     "types": "module",
-    "repository": "https://git3.nexdev.net/sc-packages/sc-pf-client-seed.git",
+    "repository": "https://git3.nexdev.net/l1/sc-packages/sc-pf-client-seed.git",
     "author": {
         "email": "pentagon@luminetsoft.com",
         "name": "pentagon"
