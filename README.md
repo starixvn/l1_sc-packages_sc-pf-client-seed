@@ -1,1 +1,1 @@
-SC PF Client Seed 1.0.4
+SC PF Client Seed 1.0.5
