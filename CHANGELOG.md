@@ -1,3 +1,10 @@
+## [1.0.5](https://git3.nexdev.net/l1/sc-packages/sc-pf-client-seed/compare/v1.0.4...v1.0.5) (2024-07-02)
+
+
+### Bug Fixes
+
+* update readme ([8c13aaf](https://git3.nexdev.net/l1/sc-packages/sc-pf-client-seed/commit/8c13aaf327730c736cde0521941e3f3ec054e101))
+
 ## [1.0.4](https://git3.nexdev.net/l1/sc-packages/sc-pf-client-seed/compare/v1.0.3...v1.0.4) (2024-07-02)
 
 
